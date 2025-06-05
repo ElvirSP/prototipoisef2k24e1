@@ -1,0 +1,5 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_MiguelCrisostomo 2_5\Capa_Modelo_MiguelCrisostomo\bin\Debug\Capa_Modelo_MiguelCrisostomo.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_MiguelCrisostomo 2_5\Capa_Modelo_MiguelCrisostomo\bin\Debug\Capa_Modelo_MiguelCrisostomo.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_MiguelCrisostomo 2_5\Capa_Modelo_MiguelCrisostomo\obj\Debug\Capa_Modelo_MiguelCrisostomo.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_MiguelCrisostomo 2_5\Capa_Modelo_MiguelCrisostomo\obj\Debug\Capa_Modelo_MiguelCrisostomo.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_MiguelCrisostomo 2_5\Capa_Modelo_MiguelCrisostomo\obj\Debug\Capa_Modelo_MiguelCrisostomo.pdb

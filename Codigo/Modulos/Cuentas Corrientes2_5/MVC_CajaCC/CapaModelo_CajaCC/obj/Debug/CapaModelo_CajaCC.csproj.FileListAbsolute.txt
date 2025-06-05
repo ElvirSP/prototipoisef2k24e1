@@ -1,0 +1,6 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_CajaCC\CapaModelo_CajaCC\bin\Debug\CapaModelo_CajaCC.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_CajaCC\CapaModelo_CajaCC\bin\Debug\CapaModelo_CajaCC.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_CajaCC\CapaModelo_CajaCC\obj\Debug\CapaModelo_CajaCC.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_CajaCC\CapaModelo_CajaCC\obj\Debug\CapaModelo_CajaCC.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_CajaCC\CapaModelo_CajaCC\obj\Debug\CapaModelo_CajaCC.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_CajaCC\CapaModelo_CajaCC\obj\Debug\CapaModelo_CajaCC.pdb

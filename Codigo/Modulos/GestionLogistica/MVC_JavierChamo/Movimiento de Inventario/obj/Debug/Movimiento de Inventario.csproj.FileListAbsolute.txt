@@ -1,0 +1,30 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Movimiento de Inventario.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Movimiento de Inventario.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Capa_Modelo.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Castle.Core.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Moq.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\itextsharp.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Capa_Modelo.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Castle.Core.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\itextsharp.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\obj\Debug\Movimiento de Inventario.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\obj\Debug\Movimiento de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\obj\Debug\Movimiento de Inventario.csproj.CopyComplete
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\obj\Debug\Movimiento de Inventario.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JavierChamo\Movimiento de Inventario\obj\Debug\Movimiento de Inventario.pdb

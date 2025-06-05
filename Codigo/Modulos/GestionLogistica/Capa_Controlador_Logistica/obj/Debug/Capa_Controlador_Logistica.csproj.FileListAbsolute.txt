@@ -1,0 +1,9 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\obj\Debug\Capa_Controlador_Logistica.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\obj\Debug\Capa_Controlador_Logistica.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\bin\Debug\Capa_Controlador_Logistica.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\bin\Debug\Capa_Controlador_Logistica.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\bin\Debug\Capa_Modelo_Logistica.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\bin\Debug\Capa_Modelo_Logistica.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\obj\Debug\Capa_Controlador_Logistica.csproj.CopyComplete
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\obj\Debug\Capa_Controlador_Logistica.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Controlador_Logistica\obj\Debug\Capa_Controlador_Logistica.pdb

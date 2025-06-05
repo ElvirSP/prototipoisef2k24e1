@@ -1,0 +1,14 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\Capa_Modelo_AmmyCatun.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\Capa_Modelo_AmmyCatun.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.csproj.CopyComplete
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.pdb

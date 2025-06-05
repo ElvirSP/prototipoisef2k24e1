@@ -1,0 +1,9 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\bin\Debug\Capa_Controlador_Consulta.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\bin\Debug\Capa_Controlador_Consulta.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\bin\Debug\Capa_Modelo_Consulta.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\bin\Debug\Capa_Modelo_Consulta.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.csproj.CopyComplete
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Controlador_Consulta\obj\Debug\Capa_Controlador_Consulta.pdb

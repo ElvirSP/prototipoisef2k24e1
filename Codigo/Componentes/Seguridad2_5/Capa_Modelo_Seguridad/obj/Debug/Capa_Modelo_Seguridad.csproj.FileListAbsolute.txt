@@ -1,0 +1,5 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Seguridad2_5\Capa_Modelo_Seguridad\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Seguridad2_5\Capa_Modelo_Seguridad\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Seguridad2_5\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Seguridad2_5\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Seguridad2_5\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.pdb

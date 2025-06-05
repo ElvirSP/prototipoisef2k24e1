@@ -1,0 +1,11 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\obj\Debug\Capa_Controlador_Compras.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\obj\Debug\Capa_Controlador_Compras.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\bin\Debug\Capa_Modelo_Compras.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\bin\Debug\Capa_Modelo_Compras.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\obj\Debug\Capa_Controlador_Compras.csproj.CopyComplete
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Compras\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

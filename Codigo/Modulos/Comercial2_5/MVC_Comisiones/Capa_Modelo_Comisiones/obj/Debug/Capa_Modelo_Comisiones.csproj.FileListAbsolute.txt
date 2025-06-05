@@ -1,0 +1,2 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Modelo_Comisiones\obj\Debug\Capa_Modelo_Comisiones.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Modelo_Comisiones\obj\Debug\Capa_Modelo_Comisiones.csproj.AssemblyReference.cache

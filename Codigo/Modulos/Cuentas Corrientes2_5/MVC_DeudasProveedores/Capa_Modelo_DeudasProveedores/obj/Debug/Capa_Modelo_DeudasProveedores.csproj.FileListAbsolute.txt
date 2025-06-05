@@ -1,0 +1,6 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_DeudasProveedores\Capa_Modelo_DeudasProveedores\bin\Debug\Capa_Modelo_DeudasProveedores.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_DeudasProveedores\Capa_Modelo_DeudasProveedores\bin\Debug\Capa_Modelo_DeudasProveedores.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_DeudasProveedores\Capa_Modelo_DeudasProveedores\obj\Debug\Capa_Modelo_DeudasProveedores.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_DeudasProveedores\Capa_Modelo_DeudasProveedores\obj\Debug\Capa_Modelo_DeudasProveedores.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_DeudasProveedores\Capa_Modelo_DeudasProveedores\obj\Debug\Capa_Modelo_DeudasProveedores.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\MVC_DeudasProveedores\Capa_Modelo_DeudasProveedores\obj\Debug\Capa_Modelo_DeudasProveedores.pdb

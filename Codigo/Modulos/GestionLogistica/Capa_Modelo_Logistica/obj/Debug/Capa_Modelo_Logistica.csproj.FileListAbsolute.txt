@@ -1,0 +1,6 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\bin\Debug\Capa_Modelo_Logistica.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\bin\Debug\Capa_Modelo_Logistica.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.pdb

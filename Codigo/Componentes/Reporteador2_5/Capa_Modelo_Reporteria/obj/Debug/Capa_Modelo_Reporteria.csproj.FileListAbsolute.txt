@@ -1,0 +1,6 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.pdb

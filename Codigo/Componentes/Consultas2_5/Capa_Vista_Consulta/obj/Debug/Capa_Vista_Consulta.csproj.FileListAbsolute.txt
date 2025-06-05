@@ -1,0 +1,15 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.ConsultaInteligente.resources
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.ConsultaSimple.resources
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.Properties.Resources.resources
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.csproj.GenerateResource.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\bin\Debug\Capa_Vista_Consulta.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\bin\Debug\Capa_Vista_Consulta.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\bin\Debug\Capa_Controlador_Consulta.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\bin\Debug\Capa_Modelo_Consulta.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\bin\Debug\Capa_Controlador_Consulta.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\bin\Debug\Capa_Modelo_Consulta.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.csproj.CopyComplete
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Consultas2_5\Capa_Vista_Consulta\obj\Debug\Capa_Vista_Consulta.pdb

@@ -1,0 +1,1 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Comercial2_5\MVC_Comisiones\Capa_Controlador_Comsiones\obj\Debug\Capa_Controlador_Comisiones.csproj.CoreCompileInputs.cache

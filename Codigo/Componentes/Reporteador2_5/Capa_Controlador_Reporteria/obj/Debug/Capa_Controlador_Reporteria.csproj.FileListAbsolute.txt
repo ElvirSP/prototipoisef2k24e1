@@ -1,0 +1,9 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\obj\Debug\Capa_Controlador_Reporteria.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\obj\Debug\Capa_Controlador_Reporteria.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\bin\Debug\Capa_Controlador_Reporteria.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\bin\Debug\Capa_Controlador_Reporteria.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\bin\Debug\Capa_Modelo_Reporteria.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\bin\Debug\Capa_Modelo_Reporteria.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\obj\Debug\Capa_Controlador_Reporteria.csproj.CopyComplete
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\obj\Debug\Capa_Controlador_Reporteria.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Controlador_Reporteria\obj\Debug\Capa_Controlador_Reporteria.pdb

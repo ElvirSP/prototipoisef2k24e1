@@ -1,0 +1,5 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\Reporte\Capa_Modelo_Reporte\bin\Debug\Capa_Modelo_Reporte.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\Reporte\Capa_Modelo_Reporte\bin\Debug\Capa_Modelo_Reporte.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\Reporte\Capa_Modelo_Reporte\obj\Debug\Capa_Modelo_Reporte.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\Reporte\Capa_Modelo_Reporte\obj\Debug\Capa_Modelo_Reporte.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\Cuentas Corrientes2_5\Reporte\Capa_Modelo_Reporte\obj\Debug\Capa_Modelo_Reporte.pdb

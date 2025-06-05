@@ -1,0 +1,13 @@
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\obj\Debug\Capa_Controlador_JDSC.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\obj\Debug\Capa_Controlador_JDSC.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\bin\Debug\Capa_Controlador_JDSC.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\bin\Debug\Capa_Controlador_JDSC.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\bin\Debug\Capa_Modelo_JDSC.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\bin\Debug\itextsharp.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\bin\Debug\Capa_Modelo_JDSC.pdb
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\bin\Debug\itextsharp.xml
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\obj\Debug\Capa_Controlador_JDSC.csproj.CopyComplete
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\obj\Debug\Capa_Controlador_JDSC.dll
+C:\Users\elvir\Desktop\Nueva carpeta (10)\proyectois2k25\Codigo\Modulos\GestionLogistica\MVC_JoseDanielSierra\Capa_Controlador_JDSC\obj\Debug\Capa_Controlador_JDSC.pdb
