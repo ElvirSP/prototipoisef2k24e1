@@ -1,2 +1,2 @@
-# prototipoisef2k24e1
-Examen final
+# proyectois2k25
+Repositorio oficial curso de Ingenierìa de Software

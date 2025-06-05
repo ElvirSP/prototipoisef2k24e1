@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vault Tech</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9f4ef;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        img {
+            max-width: 250px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 32px;
+            color: #AA885B;
+            margin: 0;
+        }
+        p {
+            font-size: 20px;
+            color: #AA885B;
+            margin-bottom: 40px;
+        }
+        .content {
+            max-width: 900px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            text-align: left;
+            font-size: 18px;
+        }
+        .content h2 {
+            font-size: 24px;
+            color: #AA885B;
+            margin-bottom: 20px;
+        }
+        .content ul {
+            list-style-type: none;
+            padding: 0;
+            margin-top: 0;
+        }
+        .content li {
+            font-size: 18px;
+            color: #555;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        .content li strong {
+            color: #AA885B;
+        }
+        .faq {
+            margin-top: 30px;
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 14px;
+            color: #AA885B;
+        }
+        .img-transporte {
+            max-width: 700px !important;
+            width: 700px !important;
+            height: auto;
+        }
+	.img-Productos {
+            max-width: 700px !important;
+            width: 700px !important;
+            height: auto;
+        }
+	.img-Botones {
+            max-width: 600px !important;
+            width: 600px !important;
+            height: auto;
+        }
+	.img-DetalleEntradaActivoCancelado {
+            max-width: 700px !important;
+            width: 700px !important;
+            height: auto;
+        }
+	.img-DetalleEntrada {
+            max-width: 700px !important;
+            width: 700px !important;
+            height: auto;
+        }
+	.img-DetalleDelTraslado {
+            max-width: 700px !important;
+            width: 700px !important;
+            height: auto;
+        }
+        .img-bodegas {
+            max-width: 220px !important;
+            width: 220px !important;
+            height: auto;
+        }
+	.img-Detalle {
+            max-width: 700px !important;
+            width: 700px !important;
+            height: auto;
+        }
+        .paso-contenido {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <img src="Logo.png" alt="Vault Tech Logo" style="max-width: 250px; margin-bottom: 20px;">
+    <h1>Traslado De Productos</h1>
+    <p>En este formulario podrás gestionar el traslado de productos entre bodegas de manera eficiente y segura. A continuación, se explica cada sección y el uso correcto del formulario.</p>
+     
+    <div class="content">
+        <h2>Guía Técnica Paso a Paso</h2>
+        <!-- INICIO PASOS SIN NUMERACIÓN -->
+         <div style="display: flex; align-items: flex-start; justify-content: flex-start; margin-bottom: 30px;">
+            <div style="flex: 1;" class="paso-contenido">
+                <span style="font-weight:bold; font-size:20px; color:#AA885B;">1. Selecciona las Bodegas</span><br>
+                En la parte izquierda, elige la <b>Bodega de Entrada</b> (destino) y la <b>Bodega de Salida</b> (origen) usando los menús desplegables. <br><i>Ejemplo: Entrada: Bodega Central, Salida: Bodega Norte.</i><br><span style="color:#d2691e; font-style:italic;"><br><b>Nota:</b> No coloques las mismas bodegas en ambos campos, ya que no se permitirá continuar con el traslado.</span>
+            </div>
+            <img src="Bodegas.png" alt="Bodegas" class="img-bodegas">
+        </div>
+------------------------------------------------
+        <div style="margin-bottom: 30px;">
+            <span style="font-weight:bold; font-size:20px; color:#AA885B;">2. Selecciona el transporte</span>
+            <ul>
+                Selecciona el <b>vehículo</b> que realizará el traslado.<br>
+                El <b>peso del Vehiculo</b>(Peso V). En este campo se mostrará el peso correspondiente al vehículo seleccionado.<br>
+                Selecciona la fecha en la que se realizará el traslado<b>(Fch. Traslado)</b>.
+            <br>
+            <img src="transporte.png" alt="Transporte" class="img-transporte">
+        <div>
+------------------------------------------------
+	<div style="margin-bottom: 30px;">
+            <span style="font-weight:bold; font-size:20px; color:#AA885B;">3. Agrega Productos al Traslado:</span>
+            <ul>
+                <li>Selecciona el <b>código</b> del producto.<br>
+                <i>El sistema mostrará: El <b>ID</b>, <b>Nombre</b>, <b>Peso</b>, <b>stock</b>, y <b>CostoU</b> disponible del producto.</i><br>
+                Al ingresa la <b>cantidad</b> del producto a trasladar.<br> 
+		<i>El sistema calculará el <b>Costo Total</b>.</i></br>
+		<span style="color:#d2691e; font-style:italic;"><br> Al Haser clic en el botón <b>Agregar</b> (<img src="Btn_Agregar.png" alt="Agregar" style="width:24px;vertical-align:middle;">).<br> 
+		los productos se añadirán a la lista de productos a trasladar y se mostrarán en el <b>DataGridView</b>.<li></span>
+            </ul>
+            <img src="Productos.png" alt="Productos" class="img-Productos">
+        <div>
+------------------------------------------------
+        <div style="margin-bottom: 30px;">
+            <span style="font-weight:bold; font-size:20px; color:#AA885B;">4. Detalle De Movimiento Salida/Entrada</span>
+            <ul>
+                El <b>DataGridView</b>. Mostrará los documentos generados correspondientes a cada traslado.<br>
+		El contenido que se podrá visualizar incluye: <b>No. de traslado, documento, fecha, costo total, costo total general, precio total y código del producto.</b>
+		<span style="color:#d2691e; font-style:italic;"><br>Se muestra un apartado llamado <b>Tipo de Informe:</b>, donde se pueden observar dos opciones. En este momento, se visualiza el informe de salida del traslado de productos, el cual se muestra en el DataGridView. Esto se debe a que se generan dos documentos por cada traslado: uno de salida y otro de entrada.</span><br>
+		A continuación se muestra la información correspondiente al traslado de salida.
+            <br>
+            <img src="Detalle.png" alt="Detalle" class="img-Detalle">
+	    <br>
+	    Al seleccionar la fila del traslado, se desplegará una ventana en la que se podrá visualizar la lista de <br>
+	    productos a trasladar, junto con la bodega de origen y la bodega de destino.<br>
+            <img src="DetalleDelTraslado.png" alt="DetalleDelTraslado" class="img-DetalleDelTraslado">
+	    <br>
+	    Aquí se ha cambiado el tipo de informe a <b>Informe Entrada TDP</b>. El cual corresponde al segundo<br> 
+            documento generado. Este documento posee las mismas características que el primero, con la diferencia <br>
+            de que se trata de un informe de entrada. En él se puede visualizar de dónde salió el producto y el estado en el<br>
+            que se encuentra. Dicho estado cambiará de <b>'Activo'</b> a <b>'Cancelado'</b> en caso de que el traslado sea cancelado.<br>
+	    <img src="DetalleEntrada.png" alt="DetalleEntrada" class="img-DetalleEntrada">
+	    <img src="DetalleEntradaActivoCancelado.png" alt="DetalleEntradaActivoCancelado" class="img-DetalleEntradaActivoCancelado">
+	    <br>
+        <div>
+------------------------------------------------
+        <!-- FIN PASOS SIN NUMERACIÓN -->
+        <h2>Descripción de los Botones</h2>
+        <ul>
+	    <img src="Botones.png" alt="Botones" class="img-Botones"><br>
+            <b>1. Agregar:</b> Este botón permite limpiar los campos para ingresar un nuevo traslado.<br>
+	    <b>2. Reportes:</b> Este botón permite visualizar y acceder a los reportes de los traslados realizados.<br>
+	    <b>3. Ayuda:</b> Este botón brinda acceso a la información sobre el uso del formulario.<br>
+            <b>4. Productos Disponibles En Bodegas:</b> Al hacer clic en este botón, se visualizarán los productos ingresados a la bodega, así como el stock que ha sido añadido con cada ingreso<br>
+	    <img src="ProductosIngresadosB.png" alt="ProductosIngresadosB" class="img-ProductosIngresadosB"><br>
+            <b>5. Cancelar Traslado:</b> Este botón permite anular un traslado y retornar los productos a la bodega desde la que fueron enviados.<br>
+            <b>6. Aceptar Traslado:</b> Por último, este botón permite confirmar o aceptar un traslado.</li>
+        </ul>
+------------------------------------------------
+        <h2>Advertencias y Buenas Prácticas</h2>
+        <ul>
+            <li>- Verifica siempre el <b>stock disponible</b> antes de ingresar la cantidad a trasladar.<br>
+            - El <b>peso total</b> de los productos no debe superar la capacidad del vehículo.<br>
+            - Completa todos los campos obligatorios para evitar errores de validación.<br>
+            - Utiliza el botón <b>Actualizar</b> para ver los últimos movimientos registrados.</li>
+        </ul>
+------------------------------------------------
+        <div class="faq">
+            <h2>Preguntas Frecuentes</h2>
+            <ul>
+                <li><b>¿Qué hago si el formulario no se envía?</b> Verifica que todos los campos estén completos y que el stock y peso sean correctos.<br>
+                <b>¿Puedo agregar varios productos?</b> Sí, repite el proceso de agregar para cada producto distinto.<br>
+                <b>¿Dónde veo el historial?</b> Usa el botón de reportes para consultar movimientos anteriores.<br>
+                <b>¿Qué significa "Stock Restante"?</b> Es la cantidad de producto que quedará disponible en la bodega de salida después del traslado.</li>
+            </ul>
+        </div>
+------------------------------------------------
+        <h2>Ejemplo Completo de Uso</h2>
+        <ol>
+            1. Selecciona las <b>"Bodegas"</b> entrada y salida.<br>
+            2. Elige el "Vehiculo" y Selecciona la fecha en la que se realizará el traslado "16/05/2024".<br>
+            </br>3. Selecciona el codigo del producto ejemplo: <b>"101"</b>, En caso de no contar con el stock necesario para el traslado, se mostrará una advertencia, ingresa una cantidad ejemplo:<b>"10"</b> Esta cantidad puede variar dependiendo del número de productos que se desee trasladar.<br>
+            </br>4. Haz clic en el botón <b>Agregar</b>. Para seguir añadiendo más productos al traslado.<br>
+            5. Verifica la lista, luego haz clic en <b>Aceptar Traslado</b>.<br>
+            6. Si todo es correcto, el sistema confirmará el traslado y actualizará los stocks.</li>
+        </ol>
+    </div>
+
+    <img src="formulario_traslado.png" alt="Formulario Traslado de Productos" style="max-width: 700px; border: 2px solid #AA885B; border-radius: 8px; margin: 40px auto 20px auto; display: block;">
+
+    <footer>
+        &copy; 2024 Vault Tech - Todos los derechos reservados.
+    </footer>
+</body>
+</html>
