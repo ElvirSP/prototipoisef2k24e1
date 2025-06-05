@@ -1,5 +1,0 @@
-commit 0603e414e8d3e9f2a91f811b05c66c0e4db24243
-Author: Elvir <esandovalp5@miumg.edu.gt>
-Date:   Thu Jun 5 10:22:25 2025 -0600
-
-    Se subió examen final

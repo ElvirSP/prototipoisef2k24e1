@@ -1,0 +1,29 @@
+commit 617febbee6a9b84034b4e7606d1e025b31ed9382
+Author: Elvir <esandovalp5@miumg.edu.gt>
+Date:   Thu Jun 5 10:40:03 2025 -0600
+
+    Cambios 2
+
+commit 0f430fd33eb6efec864746dc6691f88edff83425
+Author: Elvir <esandovalp5@miumg.edu.gt>
+Date:   Thu Jun 5 10:39:22 2025 -0600
+
+    Cambios
+
+commit 1541bba9097349b33224de97f258dc036c61b1c0
+Author: Elvir <esandovalp5@miumg.edu.gt>
+Date:   Thu Jun 5 10:38:46 2025 -0600
+
+    Se hicieron cambios xd
+
+commit 044ada7c9673aba6f850a5a2fde1b45a3001e510
+Author: Elvir <esandovalp5@miumg.edu.gt>
+Date:   Thu Jun 5 10:37:29 2025 -0600
+
+    Se hicieron cambios
+
+commit 0603e414e8d3e9f2a91f811b05c66c0e4db24243
+Author: Elvir <esandovalp5@miumg.edu.gt>
+Date:   Thu Jun 5 10:22:25 2025 -0600
+
+    Se subió examen final
